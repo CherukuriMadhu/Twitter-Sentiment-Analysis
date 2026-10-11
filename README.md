@@ -31,7 +31,6 @@ The project uses:
 - Pandas
 - NumPy
 - Scikit-learn
-- Regular Expressions (re)
 
 ---
 
