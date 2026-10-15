@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # streamlit library
 import pickle
 
 # load model + vectorizer
