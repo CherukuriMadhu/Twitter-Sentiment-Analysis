@@ -1,5 +1,5 @@
 
-#dataset handling
+#dataset
 import pandas as pd
 df=pd.read_csv("dataset.csv",encoding="latin-1",header=None)
 df=df[[0,5]]
