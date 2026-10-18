@@ -86,4 +86,4 @@ The model is evaluated using:
 
 ## Clone Repository
 ```bash
-git clone https://github.com/pavanialuri1775-art/twitter-sentiment-app.git
+git clone https://github.com/CherukuriMadhu/Twitter-Sentiment-Analysis.git
