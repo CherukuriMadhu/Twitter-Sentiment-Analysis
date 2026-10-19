@@ -80,10 +80,6 @@ The model is evaluated using:
 - Confusion Matrix
 - Classification Report
 
----
-
-# Installation
-
 ## Clone Repository
 ```bash
 git clone https://github.com/CherukuriMadhu/Twitter-Sentiment-Analysis.git
