@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis using Machine Learning.
+# Twitter Sentiment Analysis using.
 ## Project Overview
 This project performs sentiment analysis on Twitter data using Natural Language Processing (NLP) and Machine Learning.
 
